@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Secular One', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
+h2 {
+    font-weight: 900;
+    font-family: 'Secular One', sans-serif;
+}
+span {
+    font-family: 'Secular One', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.list {
+    margin-left: -30px;
+}
+ul {
+    display: inline-flex;
+    font-family: 'sans-serif';
+}
+.rrr {
+    margin-right: 10px;
+    list-style: none;
+}
+h4 {
+    margin-bottom: 20px;
+    font-family: 'Secular One', sans-serif;
+}
+h5 {
+    margin-bottom: 20px;
+    font-family: 'Secular One', sans-serif;
+}
+.posts {
+    text-decoration: none;
+}
+.list1 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    list-style: disc;
+    list-style-position: inside;
+    font-family: 'Secular One', sans-serif;
+}
+
+.list1 li {
+    margin-bottom: 0.5em;
+    font-size: 20px;
+}
+summary {
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+}
